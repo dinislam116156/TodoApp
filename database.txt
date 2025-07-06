@@ -1,6 +1,8 @@
 //Database creation
 Create DTABASE todoApp;
+
 //USE DATABASE todoApp;
+
 //Table creation
 CREATE TABLE USERS(
 id int,
